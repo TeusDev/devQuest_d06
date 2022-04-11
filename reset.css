@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;700;800&display=swap');
+
+* {
+	/* SETTER CSS */
+	margin: 0;
+	padding: 0;
+	font-family: 'Public Sans', sans-serif;
+}
+
+/* DEF */
+
+h1 {
+	font-weight: 800;
+}
+
+h2 {
+	font-weight: 700;
+	font-size: 30px;
+}
+
+h3 {
+	font-weight: 300;
+	font-size: 17.5px;
+}

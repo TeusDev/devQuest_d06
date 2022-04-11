@@ -1,0 +1,53 @@
+.title {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 25px;
+	background-color: springgreen;
+	width: 250px;
+	margin: 15px auto;
+	border-radius: 12px;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	/* background-color: aqua; */
+	padding: 0 10px;
+}
+
+.container .c {
+	/* background-color: red; */
+	margin: 130px 10px;
+	width: 335px;
+	height: 430px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	color: white;
+}
+
+.container h2 {
+	margin-bottom: 5px;
+}
+
+.container .c .desc {
+	margin: 40px 25px;
+}
+
+.container .image-1 {
+	background: url(src/img/rome.png);
+}
+
+.container .image-2 {
+	background: url(src/img/boat.png);
+}
+
+.container .image-3 {
+	background: url(src/img/sand-and-sea.png);
+}
+
+.container .image-4 {
+	background: url(src/img/starry-night.png);
+}
